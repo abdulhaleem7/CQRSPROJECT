@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Infracstructure.deps.json
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Infracstructure.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Infracstructure.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.AssemblyInfo.cs
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\refint\PracticeDDD.Infracstructure.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\ref\PracticeDDD.Infracstructure.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Application.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Domain.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Application.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\bin\Debug\net6.0\PracticeDDD.Domain.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Infracstructure\obj\Debug\net6.0\PracticeDDD.Infracstructure.csproj.CopyComplete

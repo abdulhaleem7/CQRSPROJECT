@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\bin\Debug\net6.0\PracticeDDD.Domain.deps.json
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\bin\Debug\net6.0\PracticeDDD.Domain.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\bin\Debug\net6.0\PracticeDDD.Domain.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\refint\PracticeDDD.Domain.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Domain.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Domain\obj\Debug\net6.0\ref\PracticeDDD.Domain.dll

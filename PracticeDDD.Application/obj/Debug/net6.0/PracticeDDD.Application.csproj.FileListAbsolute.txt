@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\bin\Debug\net6.0\PracticeDDD.Application.deps.json
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\bin\Debug\net6.0\PracticeDDD.Application.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\bin\Debug\net6.0\PracticeDDD.Application.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\bin\Debug\net6.0\PracticeDDD.Domain.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\bin\Debug\net6.0\PracticeDDD.Domain.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.csproj.CopyComplete
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\refint\PracticeDDD.Application.dll
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\PracticeDDD.Application.pdb
+C:\Users\user\source\repos\PracticeDDD\PracticeDDD.Application\obj\Debug\net6.0\ref\PracticeDDD.Application.dll
